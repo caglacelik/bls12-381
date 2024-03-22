@@ -4,20 +4,15 @@ This Rust-based project provides a straightforward way to compute public keys us
 
 ## Prerequisites
 
-To use this project, you must have the Rust programming language and Cargo, its package manager, installed on your computer. If you do not have Rust installed, you can download it and find installation instructions at [here](https://www.rust-lang.org/tools/install).
+To use this project, you must have the Rust programming language and Cargo,. If you do not have Rust installed, you can download it and find installation instructions at [here](https://www.rust-lang.org/tools/install).
 
-Install the lambdaworks
-
-```bash
-cargo add lambdaworks-math
-```
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
-git clone
+git clone https://github.com/caglacelik/bls12-381
 ```
 
 ## Usage
